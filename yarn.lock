@@ -2080,12 +2080,12 @@ __metadata:
   linkType: hard
 
 "flowbite@npm:^1.6.3, flowbite@npm:^1.6.5":
-  version: 1.6.5
-  resolution: "flowbite@npm:1.6.5"
+  version: 1.8.1
+  resolution: "flowbite@npm:1.8.1"
   dependencies:
     "@popperjs/core": ^2.9.3
     mini-svg-data-uri: ^1.4.3
-  checksum: b6b7da2b3c07356e47dcec0ec4365462053b8bd0b8e6a7a5126588f0deffc31d783f5e7cd5288856a4a6562dab8d2555e0ea9b2c718e1d94a5c147655a8622f5
+  checksum: 51fa33656082ae15e66fefdf595d76cad4e7d80795d5c4174e4cfcb56bd03d867a11d42fe83a6adc1272a895edd657a76b6bdad8ccf86781d9bf34a85c516525
   languageName: node
   linkType: hard
 
